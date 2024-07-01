@@ -12,12 +12,12 @@ const Step: FC<Step> = ({ step, title, description, image, mobileImage }) => {
 				<p className='text-center text-xl font-bold opacity-80'>{title}</p>
 				<p className='text-center'>{description}</p>
 				<img
-					src={`/step/${image}.png`}
+					src={`/step/${image}.svg`}
 					alt='step'
 					className='hidden aspect-[9/16] w-72 lg:block'
 				/>
 				<img
-					src={`/step/${mobileImage}.png`}
+					src={`/step/${mobileImage}.svg`}
 					alt='step-mobile'
 					className='md:hidden'
 				/>

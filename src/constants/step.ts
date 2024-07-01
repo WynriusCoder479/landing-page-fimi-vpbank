@@ -31,9 +31,9 @@ export const steps = [
 	},
 	{
 		step: 3,
-		title: 'Đăng nhập vào SenID và nhận voucher',
+		title: 'Đăng nhập vào  và nhận voucher',
 		description:
-			'Đăng nhập tài khoản SenID tại https://senid.vn/taikhoan bằng số điện thoại mở thẻ thành công sau khi hoàn tất mở thẻ để nhận voucher.',
+			'Đăng nhập tài khoản  tại https://.vn/taikhoan bằng số điện thoại mở thẻ thành công sau khi hoàn tất mở thẻ để nhận voucher.',
 		image: 'step3',
 		mobileImage: 'step3-mobile'
 	},
@@ -41,14 +41,14 @@ export const steps = [
 		step: 4,
 		title: 'Nhận thẻ và kích hoạt thẻ vật lý',
 		description: `Nhận và kích hoạt thẻ vật lý được bàn giao bởi đơn vị vận chuyển của VPBank.
-		SenID tự động cập nhật thông tin kích hoạt của khách hàng trong vòng từ 3-5 ngày làm việc kể từ thời điểm kích hoạt.`,
+		 tự động cập nhật thông tin kích hoạt của khách hàng trong vòng từ 3-5 ngày làm việc kể từ thời điểm kích hoạt.`,
 		image: 'step4',
 		mobileImage: 'step4-mobile'
 	},
 	{
 		step: 5,
 		title: 'Nhập thông tin tài khoản và nhận hoàn tiền',
-		description: `Nhập thông tin tài khoản thanh toán để nhận hoàn tiền từ SenID tại https://senid.vn/taikhoan.
+		description: `Nhập thông tin tài khoản thanh toán để nhận hoàn tiền từ  tại https://.vn/taikhoan.
 		Hoàn tiền được thực hiện trong vòng 07 ngày kể từ thời điểm kích hoạt thẻ vật lý & cung cấp thông tin tài khoản.`,
 		image: 'step2',
 		mobileImage: 'step2-mobile'
