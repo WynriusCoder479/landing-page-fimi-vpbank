@@ -3,7 +3,7 @@ import Wrapper from '../common/wrapper'
 const TimeSection = () => {
 	return (
 		<Wrapper>
-			<div className='flex items-center justify-center'>
+			<div className='flex items-center justify-center bg-transparent'>
 				<img
 					src='/banner-2.png'
 					alt='banner 2'
